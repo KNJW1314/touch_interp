@@ -1,0 +1,6 @@
+id=touch_interp
+name=触控插值自动恢复
+version=v1.0
+versionCode=1
+author=user
+description=熄屏唤醒后自动恢复触控插值(interpolation=4)，保持高报点率
